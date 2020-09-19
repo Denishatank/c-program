@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+	int a,b,product;
+	
+    printf("enter the first nuumber);
+    scanf("%d",&a);
+    printf("enter the second nuumber);
+    scanf("%d",&b);
+    product=a*b;
+    printf("product of nuumber is  %d",&product);
+    getch();
+}
