@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+	int integer type;
+	char char type;
+    float float type;
+    double double type;
+    printf("size of  integer:%d/n",size of(integertype));
+     printf("size of  integer:%d/n",size of(char type));
+      printf("size of  integer:%d/n",size of(float type));
+       printf("size of  integer:%d/n",size of(double type));
+
+       return 0;
+
+}
